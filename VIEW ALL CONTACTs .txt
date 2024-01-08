@@ -1,0 +1,24 @@
+
+NAMES	SEX	PHONENO	        ADDRESS	EMAIL
+
+
+
+alice	female	78546543	Huye	alice12@gmail.com
+
+Prince	male	783154587	Rutsiro	mucyoprinc12@gmail.coom
+
+Muhire	male	78557643	Kigali	muhire@gmail.com
+
+DAVID	M	78886544	GISENYI	david@gmail.com
+
+mucyo	m	876532	rubavu	mp@fg
+
+alice	female	78546543	Huye	alice12@gmail.com
+
+Prince	male	783154587	Rutsiro	mucyoprinc12@gmail.coom
+
+Muhire	male	78557643	Kigali	muhire@gmail.com
+
+DAVID	M	78886544	GISENYI	david@gmail.com
+
+mucyo	m	876532	rubavu	mp@fg
